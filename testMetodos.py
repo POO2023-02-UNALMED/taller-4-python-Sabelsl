@@ -78,3 +78,5 @@ def testMetodosAsignarGrupo():
         ok = True
     
     assert(ok)
+
+testMetodosAgregarGrupo()
